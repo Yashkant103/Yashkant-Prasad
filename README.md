@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yashkant-Prasad
+- 👋 Hi, I’m @Yashkant
 - 🌱 I’m currently learning ...JAVA
 - 📫 How to reach me ...Mail on 21010101148@darshan.ac.in
 
