@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yashkant
-- 🌱 I’m currently learning ...JAVA
+- 🌱 I’m currently learning JS!
 - 📫 How to reach me ...Mail on 21010101148@darshan.ac.in
 
 <!---
